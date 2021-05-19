@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=ouguro3&&show_icons=true&theme=react)
 
 
-### Technology Stack 
+### 😄Technology Stack 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
