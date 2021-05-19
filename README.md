@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you!  
 
 <!--
 **ouguro3/ouguro3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💿 My record
 ![](https://github-readme-stats.vercel.app/api?username=ouguro3&&show_icons=true&theme=react)
 
 
-### 😄Technology Stack 
+### 😄 Tech Stacks 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
