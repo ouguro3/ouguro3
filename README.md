@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💿 My record
-![](https://github-readme-stats.vercel.app/api?username=ouguro3&&show_icons=true&theme=react)
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
-
-### 😄 Tech Stacks 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</p>
