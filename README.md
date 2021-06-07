@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%World!&height=100)
 
-### Hi there 👋
+<h3 align="center">
+Hi there 👋
+Welcome to My Github 😄
+</h3>
 
 <!--
 **ouguro3/ouguro3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
