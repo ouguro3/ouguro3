@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%World!&height=100)
 
 <h3 align="center">
-Hi there 👋
-Welcome to My Github 😄
+  Hi there 👋
 </h3>
 
 <!--
