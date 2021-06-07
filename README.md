@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-
+<img src="https://img.shields.io/badge/hexo-339933?style=flat-square&logo=hexo&logoColor=white"/>
 </p>
