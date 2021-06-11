@@ -7,7 +7,7 @@ Thank you for coming to my Github!
 
 Have a nice day
 
-
+ 
 
 <!--
 **ouguro3/ouguro3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
